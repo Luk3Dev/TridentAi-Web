@@ -1,7 +1,3 @@
-#Hi I'm @Luk3Dev
-
-#Looking to create projects and collaborate
-
-#Learning new programming languages
-
-# Currently a Frontend Developer role
+#currently is a login page for TridentAi website project. 
+# Front-end libraries
+# HTML, CSS
