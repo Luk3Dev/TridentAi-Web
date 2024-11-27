@@ -1,1 +1,1 @@
-Project with Trident AI landing page website
+Here is a Basic landing page I collabed with @Tshodi my mentor with.
